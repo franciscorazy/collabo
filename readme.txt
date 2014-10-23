@@ -12,3 +12,4 @@
 # Feel free to contact me at franciscorazy@gmail.com
 
 # Collaborators must mail me their SSH PUBLIC keys
+# All collaborators must be active to remain relevant

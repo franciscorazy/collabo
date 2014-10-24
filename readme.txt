@@ -8,3 +8,5 @@
 # The product is still in infacy stages
 
 # Quality and Effectiveness will be the guiding policy
+
+# Feel free to contact me at franciscorazy@gmail.com

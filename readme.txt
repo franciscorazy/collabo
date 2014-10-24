@@ -1,0 +1,10 @@
+  README
+==============
+
+# This a new project collaboration of 2 programmers
+
+# Open source software will be used
+
+# The product is still in infacy stages
+
+# Quality and Effectiveness will be the guiding policy

@@ -12,5 +12,9 @@
 # Feel free to contact me at franciscorazy@gmail.com
 
 # Collaborators must mail me their SSH PUBLIC keys
+<<<<<<< HEAD
 
 # All Patches are only accepted if they have minimal bugs
+=======
+# All collaborators must be active to remain relevant
+>>>>>>> origin

@@ -10,3 +10,5 @@
 # Quality and Effectiveness will be the guiding policy
 
 # Feel free to contact me at franciscorazy@gmail.com
+
+# Collaborators must mail me their SSH PUBLIC keys

@@ -18,3 +18,5 @@
 =======
 # All collaborators must be active to remain relevant
 >>>>>>> origin
+
+# Code readability is important
